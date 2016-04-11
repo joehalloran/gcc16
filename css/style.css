@@ -20,15 +20,16 @@ body {
 
 #front-page-header {
 	height: 400px;
-	padding-top: 100px;
+	padding-top: 75px;
 	margin-top: -50px;
 	margin-bottom: 40px;
 	background-color: #2196F3;
 }
 
 #carousel-example-generic {
-	height: 300px;
+	height: 325px;
 	color: white;
+	padding-top: 75px;
 
 }
 
