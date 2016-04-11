@@ -1,0 +1,72 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Orbitron', sans-serif;
+	font-weight: 900;
+}
+
+.navbar-default {
+	background-color: #2196F3;
+    border: 0;
+    margin-bottom: 0;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+#front-page-header {
+	height: 400px;
+	padding-top: 100px;
+	margin-top: -50px;
+	margin-bottom: 40px;
+	background-color: #2196F3;
+}
+
+#carousel-example-generic {
+	height: 300px;
+	color: white;
+
+}
+
+#carousel-example-generic h1 {
+	font-size: 44px;
+}
+
+#carousel-example-generic p {
+	font-size: 24px;
+}
+
+#carousel-example-generic a {
+	color: white;
+}
+
+.carousel-control.left, .carousel-control.right {
+	background-image: none;
+}
+
+section {
+	margin-bottom: 70px;
+	padding-top: 10px;
+}
+
+section h2 {
+	border-bottom: 4px solid #2196F3;
+}
+
+#main aside {
+	margin-top: 20px;
+	background-color: #eee;
+	padding: 10px 20px;
+	min-height: 600px;
+}
+
+footer {
+	background-color: #eee;
+	height: 150px;
+	margin-top: 50px;
+	padding-top: 40px;
+}
