@@ -62,7 +62,12 @@ section h2 {
 	margin-top: 20px;
 	background-color: #eee;
 	padding: 10px 20px;
-	min-height: 600px;
+}
+
+@media (min-width: 768px) {
+	#main aside {
+		min-height: 600px;
+	}
 }
 
 footer {
