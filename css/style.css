@@ -18,6 +18,11 @@ body {
     color: white;
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+    border-color: #fff;
+    background-color: #fff;
+}
+
 #front-page-header {
 	height: 400px;
 	padding-top: 75px;
@@ -56,6 +61,11 @@ section {
 
 section h2 {
 	border-bottom: 4px solid #2196F3;
+}
+
+#partners .media-object {
+	width: 125px;
+	margin-top: 24px;
 }
 
 #main aside {
